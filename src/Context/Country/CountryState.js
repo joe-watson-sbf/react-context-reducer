@@ -3,7 +3,7 @@ import CountryReducer from './CountryReducer';
 import CountryContext from './CountryContext';
 import axios from "axios";
 
-const URI_API = 'https://restcountries.com/v3.1/';
+const URI_API = 'https://restcountries.com/v2/';
 
 const CountryState = (props)=>{
 
